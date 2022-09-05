@@ -1,7 +1,7 @@
 # 🏋🏻‍♂️ Code interview preparation
 
 <p align="center">
-  <img src="utils/wallpaper-2.jpg" height=400px/>
+  <img src="utils/wallpaper.jpg" height=400px/>
 </p>
 
 **RESOURCES**
